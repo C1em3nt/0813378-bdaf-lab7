@@ -58,9 +58,6 @@ describe('Simulation', function () {
       allBobBalance = await BobWETH.balanceOf(WETHholderAddress);
       await BobWETH.approve(cUSDC_Contract, allBobBalance);
       await BobcUSDC.supply(WETH_Contract, allBobBalance);
-      WETHbalance = await BobWETH.balanceOf(cUSDC_Contract);
-      allBobBalance = await BobWETH.balanceOf(WETHholderAddress);
-      console.log('        WETH Balance after Bob provides liquiity:', ethers.utils.formatUnits(WETHbalance.toString(), 6));
     });
 
     it('Bob withdraws all the USDC balance.', async function () {
