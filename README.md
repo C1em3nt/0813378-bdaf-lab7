@@ -16,7 +16,7 @@
 ## Result
 
 ### Step
-<img width="820" alt="螢幕擷取畫面 2023-05-24 013125" src="https://github.com/C1em3nt/0813378-bdaf-lab7/assets/87816657/b4dc6e96-5478-4f2f-a120-8cef72f6add2">
+<img width="783" alt="螢幕擷取畫面 2023-05-24 021247" src="https://github.com/C1em3nt/0813378-bdaf-lab7/assets/87816657/1cb48548-88c7-4255-9f81-34234c1c991e">
 
 ### Revert message
-![image](https://github.com/C1em3nt/0813378-bdaf-lab7/assets/87816657/1c986c7b-ab98-4a61-969a-7b572cc0f2c2)
+![image](https://github.com/C1em3nt/0813378-bdaf-lab7/assets/87816657/16f8d175-3cb5-4251-8b86-22421f5e9f9b)
