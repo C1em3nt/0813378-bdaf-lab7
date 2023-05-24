@@ -85,7 +85,7 @@ describe('Simulation', function () {
     });
 
     it('AliceSign tries to withdraw 1000 USDC, record what happened and print those out.', async function () {
-      await AlicecUSDCv3.withdraw(USDC_Contract, ethers.utils.parseUnits("1000", 6));
+      await AlicecUSDCv3.withdraw(USDC_Contract, 1000*1e6);
     });
 
   })
